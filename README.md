@@ -1,5 +1,7 @@
 Aurora Nano v0.1 is a research preview intended for experimentation, benchmarking, and evaluation. Real-world benchmark results are currently being collected and future releases may differ substantially from the current implementation.
 
+USE QUICKSTART.md FOR THE GUIDE
+
 Aurora Nano v0.1 — Research Preview
 
 Aurora Nano is a lightweight runtime and evaluation framework designed to improve consistency, contradiction handling, escalation decisions, and structured reasoning for small language models.
