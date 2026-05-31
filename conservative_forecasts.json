@@ -1,0 +1,16 @@
+{
+  "simulation_deltas": {
+    "Qwen3 4B": 0.179,
+    "Gemma 3 4B": 0.171,
+    "SmolLM3 3B": 0.167,
+    "Llama 3.2 3B": 0.161,
+    "Phi-4 Mini": 0.147
+  },
+  "conservative_forecasts": {
+    "Qwen3 4B": "8-12%",
+    "Gemma 3 4B": "7-11%",
+    "Llama 3.2 3B": "8-13%",
+    "Phi-4 Mini": "6-10%",
+    "SmolLM3 3B": "7-11%"
+  }
+}
